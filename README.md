@@ -9,4 +9,4 @@ Determine which Patients will have a Parkinson's disease diagnosis using metrics
 ### Hypothesis
 Parkinson's Disease can be determined from considering acoustic patterns of voice recordings. 
 ### Conclusion
-With the processed voice recording meta data provided, it is not possibe to determine the disease state of the individual. Raw data must be obtained and processed in a considered way to highlight the characteristics of the diseased state and information with a historical progression would also provide more information to theprogression of the disease.
+With the processed voice recording meta data provided, it is not possibe to determine the disease state of the individual. Raw data must be obtained and processed in a considered way to highlight the characteristics of the diseased state and information with a historical progression would also provide more information to the progression of the disease.
