@@ -1,6 +1,5 @@
 ## PARKINSONS DISEASE PREDICTION FROM VOICE RECORDINGS
-![Datbos logo](logo.png)
-### Notebook of voice analysis for parkinson diagnosois
+### Voice Analysis for Parkinson Diagnosois
 Three different studies produced three different voice recording acoustic analysis metadata. The datasets from the three studies are analysed independently because the metrics collected on different systems are similar but not the same in that the signals are processed differently to get the independent variables analyzed.  
 
 http://www.dailymail.co.uk/health/article-5323269/Michael-J-Fox-pledges-100-000-UK-university-develop-Parkinson-s-app.html
